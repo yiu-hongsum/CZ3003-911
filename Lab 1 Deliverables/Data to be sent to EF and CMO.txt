@@ -1,0 +1,13 @@
+
+
+Case ID
+Description
+Informant name
+Informant phone number
+Location of crisis
+Timestamp of crisis 
+Crisis level
+
+
+
+Remarks(EF havent confirm)
